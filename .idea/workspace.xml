@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3edaf29a-c3c2-4473-ac07-5c80059569d7" name="Changes" comment="" />
+    <list default="true" id="3edaf29a-c3c2-4473-ac07-5c80059569d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Tienda/src/model/Tienda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tienda/src/model/Tienda.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Tienda" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {

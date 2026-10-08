@@ -135,14 +135,15 @@ public class Tienda {
     }
 
     // 1. Obtener productos en cantidad mayores  o iguales a 10
-    public List<Producto> obtenerProductosConCantidadDisponibleMayorIgualA10() {
-        List<Producto> productosFiltrados = new ArrayList<>();
-        for (Producto producto : listaProductos.values()) {
-            if (producto.getCantidadDisponible() >= 10) {
-                productosFiltrados.add(producto);
+    public List<Producto> obtenerMayoresDiez() {
+        List<Producto> productosAdecuado = new ArrayList<>();
+
+        for (Producto productosBuenos : hashMaplistaProductos.values()) {
+            if (productosBuenos.getCantidadDisponible() >= 10) {
+                productosAdecuado.add(productosBuenos);
             }
         }
-        return productosFiltrados;
+        return productosAdecuado;
     }
     //2. Obtener la lista de codigos de los productos con una cantidad disponible mayor igual a 10 y menor que 50
 
@@ -156,4 +157,6 @@ public class Tienda {
         }
         return resultado;
     }
+    //3. Obtener la lista de clientes que hayan comprado el 7 de octubre de 2026
+
 }
