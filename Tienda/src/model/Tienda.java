@@ -198,4 +198,12 @@ public class Tienda {
         return resultado;
 
     }
-}
+    //punto 5. Obtener las facturas donde se haya comprado un celular de marca Iphone 16 pro max
+
+//6. Obtener las facturas que tenga un cliente
+//donde su nombre sea Juan y haya comprado un celular de marca Iphone 16 pro max
+
+//7. Implementar un metido que reciba una categoria
+// y retorne todos los productos registrados que pertenezcan a ella
+
+//punto 8. Implementar un metodo 
