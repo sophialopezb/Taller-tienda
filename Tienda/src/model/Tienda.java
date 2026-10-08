@@ -25,13 +25,29 @@ public class Tienda {
     }
 
     // Getters
-    public String getNombre() { return nombre; }
-    public String getNit() { return nit; }
-    public String getTelefono() { return telefono; }
+    public String getNombre() {
+        return nombre;
+    }
 
-    public List<Cliente> getListaClientes() { return listaClientes; }
-    public List<Factura> getListaFacturas() { return listaFacturas; }
-    public Map<String, Producto> getListaProductos() { return listaProductos; }
+    public String getNit() {
+        return nit;
+    }
+
+    public String getTelefono() {
+        return telefono;
+    }
+
+    public List<Cliente> getListaClientes() {
+        return listaClientes;
+    }
+
+    public List<Factura> getListaFacturas() {
+        return listaFacturas;
+    }
+
+    public Map<String, Producto> getListaProductos() {
+        return listaProductos;
+    }
 
     public void setListaProductos(Map<String, Producto> listaProductos) {
         this.listaProductos = listaProductos;
@@ -147,16 +163,28 @@ public class Tienda {
     }
     //2. Obtener la lista de codigos de los productos con una cantidad disponible mayor igual a 10 y menor que 50
 
-    public ArrayList<String> ObtenerCodigoProductosAgotados (int limiteInferior, int limite Superior) {
+    public ArrayList<String> ObtenerCodigoProductosAgotados(int limiteInferior, int limite Superior) {
         ArrayList<String> resultado = new ArrayList<>();
         for (String codigo : hashMaplistaProductos.keySet()) {
-           Producto producto = hashMaplistaProductos.get(codigo);
-           if (producto.getCantidadDisponible() >= 10 && producto.getCantidadDisponible() < 50) {
-          resultado.add(codigo);
+            Producto producto = hashMaplistaProductos.get(codigo);
+            if (producto.getCantidadDisponible() >= 10 && producto.getCantidadDisponible() < 50) {
+                resultado.add(codigo);
             }
         }
         return resultado;
     }
+
     //3. Obtener la lista de clientes que hayan comprado el 7 de octubre de 2026
+    public Arraylist<Cliente> ObtenerClientesCompras(LocalDate fechaConsulta) {
+        ArraList<Cliente> listaClientes = new Arraylist<>();
+
+        for (Factura factura : listaFacturas) {
+            if (factura.fecha().isEqual(fechaConsulta)) {
+                listaClientes.add(factura.cliente());
+            }
+        }
+        return listaClientes;
+    }
+}
 
 }
