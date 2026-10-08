@@ -198,12 +198,26 @@ public class Tienda {
         return resultado;
 
     }
-    //punto 5. Obtener las facturas donde se haya comprado un celular de marca Iphone 16 pro max
+//punto 5:   Obtener las facturas donde se haya comprado un celular de marca Iphone 16 pro max
 
-//6. Obtener las facturas que tenga un cliente
-//donde su nombre sea Juan y haya comprado un celular de marca Iphone 16 pro max
+//punto 6:   Obtener las facturas que tenga un cliente
+// donde su nombre sea juan y haya comprado un celular de marca Iphone 16 pro max
 
-//7. Implementar un metido que reciba una categoria
-// y retorne todos los productos registrados que pertenezcan a ella
 
-//punto 8. Implementar un metodo 
+// Punto 7: Implementar un método que reciba una categoría
+//  y retorne todos los productos registrados que pertenezcan a ella.
+
+//punto 8 : Implementar un método que reciba un precio mínimo y un precio máximo, y retorne
+// los productos cuyo precio se encuentre dentro de ese rango, incluyendo ambos límites.
+
+//punto 9: Implementar un método que retorne todos los productos
+// registrados en la tienda, ordenados de menor a mayor según su precio.
+
+//punto 10: Implementar un método que identifique el producto con el precio más alto de la tienda.
+// Si no existen productos registrados, el método debe retornar un Optional vacío.
+
+//Punto 11: Implementar un método que reciba el nombre de una ciudad y retorne
+// todos los clientes que residan en ella.
+// La búsqueda debe realizarse sin diferenciar entre mayúsculas y minúsculas.
+
+
