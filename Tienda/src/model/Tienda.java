@@ -185,6 +185,17 @@ public class Tienda {
         }
         return listaClientes;
     }
-}
 
+    //4. obtener las facturas que tenga un cliente donde su nombre empiece con R
+    public ArrayList<Factura> obtenerFacturasClienteConR(){
+        ArrayList<Factura> resultado = new ArrayList<>();
+
+        for (Factura factura : listaFacturas){
+            if(factura.tieneClienteConR()){
+                resultado.add(factura);
+            }
+        }
+        return resultado;
+
+    }
 }
