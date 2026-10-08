@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06c1e5f5-13cb-4609-bc7d-204f4e2d4db1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sophialopezb"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sophialopezb/Taller-tienda.git",
+    "accountId": "156c0ec8-6325-4b87-b4e6-c4f1ec7ef028"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000237088347" />
+      <entry key="MS500" value="1.0298634190232243" />
+      <entry key="S2" value="1.5126816703164763" />
+      <entry key="S5" value="2.655457081679475" />
+      <entry key="S10" value="4.377235532575098" />
+      <entry key="S30" value="8.151879611437872" />
+      <entry key="S60" value="10.614595081257505" />
+      <entry key="M2" value="13.307583683745191" />
+      <entry key="M5" value="20.467641479383957" />
+      <entry key="M10" value="39.66971847015175" />
+      <entry key="M15" value="62.14301792590783" />
+      <entry key="M30" value="116.75940891848974" />
+      <entry key="H1" value="172.90382287010505" />
+      <entry key="H2" value="214.64474631287723" />
+      <entry key="H4" value="240.3428987278597" />
+      <entry key="D1" value="264.7546308275501" />
+      <entry key="W1" value="269.2428621050113" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0549361417179428E-123" />
+      <entry key="MS500" value="2.5390209948519354E-25" />
+      <entry key="S2" value="7.690753420981688E-7" />
+      <entry key="S5" value="0.004756449717952383" />
+      <entry key="S10" value="0.0947679421428221" />
+      <entry key="S30" value="0.7211672438739304" />
+      <entry key="S60" value="1.246150504755553" />
+      <entry key="M2" value="1.7756200444234012" />
+      <entry key="M5" value="2.635363008056365" />
+      <entry key="M10" value="3.9130783939331906" />
+      <entry key="M15" value="5.156739398917725" />
+      <entry key="M30" value="7.930265338226779" />
+      <entry key="H1" value="10.608627790050264" />
+      <entry key="H2" value="12.527382263035904" />
+      <entry key="H4" value="13.684456212475625" />
+      <entry key="D1" value="14.76876348414034" />
+      <entry key="W1" value="14.966659188705417" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.37631168685290106" />
+      <entry key="MS500" value="0.8251240529150171" />
+      <entry key="S2" value="1.2628034137468345" />
+      <entry key="S5" value="2.398044929009574" />
+      <entry key="S10" value="4.211712698040898" />
+      <entry key="S30" value="8.67655144367051" />
+      <entry key="S60" value="11.725784204767507" />
+      <entry key="M2" value="14.994731277095223" />
+      <entry key="M5" value="23.04838465746014" />
+      <entry key="M10" value="43.530357339793646" />
+      <entry key="M15" value="67.24277330247335" />
+      <entry key="M30" value="124.63209384347364" />
+      <entry key="H1" value="183.46801068498334" />
+      <entry key="H2" value="227.14398782247017" />
+      <entry key="H4" value="254.01144878774832" />
+      <entry key="D1" value="279.52045151351535" />
+      <entry key="W1" value="284.2090932162551" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K6cZW61YzHFbm3oHEesz8VXYRk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Universidad del Quindio/Programacion/Unidad 1/Repositorio/Taller-tienda/Tienda",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Universidad del Quindio/Programacion/Unidad 1/Repositorio/mistrabajos--2026-2/Repositorio/Tienda/src/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c1e5f5-13cb-4609-bc7d-204f4e2d4db1" name="Changes" comment="" />
+      <created>1790881514986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790881514986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

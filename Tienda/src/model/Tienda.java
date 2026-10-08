@@ -144,5 +144,16 @@ public class Tienda {
         }
         return productosFiltrados;
     }
-    //2. Obtener la lista de codigos de 
+    //2. Obtener la lista de codigos de los productos con una cantidad disponible mayor igual a 10 y menor que 50
+
+    public ArrayList<String> ObtenerCodigoProductosAgotados (int limiteInferior, int limite Superior) {
+        ArrayList<String> resultado = new ArrayList<>();
+        for (String codigo : hashMaplistaProductos.keySet()) {
+           Producto producto = hashMaplistaProductos.get(codigo);
+           if (producto.getCantidadDisponible() >= 10 && producto.getCantidadDisponible() < 50) {
+          resultado.add(codigo);
+            }
+        }
+        return resultado;
+    }
 }
